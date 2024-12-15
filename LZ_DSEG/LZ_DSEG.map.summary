@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Dec 12 16:53:32 2024
+Quartus II 64-Bit Version : 12.0 Build 178 05/31/2012 SJ Full Version
+Revision Name : LZ_DSEG
+Top-level Entity Name : LZ_DSEG
+Family : Cyclone IV E
+Total logic elements : 227
+    Total combinational functions : 227
+    Dedicated logic registers : 107
+Total registers : 107
+Total pins : 14
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
